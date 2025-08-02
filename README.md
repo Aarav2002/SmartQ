@@ -13,10 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/placeholder/demo.gif" alt="Smart Queue Demo" width="600">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-4CAF50?style=for-the-badge)](https://your-demo-url.com)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-Read_More-2196F3?style=for-the-badge)](https://your-docs-url.com)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/smart-queue-management?style=for-the-badge&logo=github)](https://github.com/yourusername/smart-queue-management)
-
 </div>
 
 ---
@@ -280,20 +276,6 @@ Containerized
 </tr>
 </table>
 
----
-
-## 📊 Project Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&repo=smart-queue-management&show_icons=true&theme=radical" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 <div align="center">
@@ -327,18 +309,6 @@ Containerized
 <a href="https://github.com/yourusername/smart-queue-management/issues">
 <img src="https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues">
 </a>
-
-</div>
-
----
-
-## � License
-
-<div align="center">
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License">
 
 </div>
 
